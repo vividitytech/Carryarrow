@@ -1,0 +1,1 @@
+/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a

@@ -1,0 +1,64 @@
+{
+  "buildFiles": [
+    "/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Android.mk",
+    "/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/gangchen/Android/Sdk/ndk/25.1.8937393/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Android.mk",
+      "NDK_APPLICATION_MK\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Application.mk",
+      "APP_ABI\u003darmeabi-v7a",
+      "NDK_ALL_ABIS\u003darmeabi-v7a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-19",
+      "NDK_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj",
+      "NDK_LIBS_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/gangchen/Android/Sdk/ndk/25.1.8937393/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Android.mk",
+    "NDK_APPLICATION_MK\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Application.mk",
+    "APP_ABI\u003darmeabi-v7a",
+    "NDK_ALL_ABIS\u003darmeabi-v7a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-19",
+    "NDK_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj",
+    "NDK_LIBS_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "sfml-example-debug-armeabi-v7a": {
+      "buildCommandComponents": [
+        "/home/gangchen/Android/Sdk/ndk/25.1.8937393/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Android.mk",
+        "NDK_APPLICATION_MK\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Application.mk",
+        "APP_ABI\u003darmeabi-v7a",
+        "NDK_ALL_ABIS\u003darmeabi-v7a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-19",
+        "NDK_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj",
+        "NDK_LIBS_OUT\u003d/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/lib",
+        "/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libsfml-example.so"
+      ],
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "sfml-example",
+      "output": "/home/gangchen/Downloads/project/temp/Carryarrow/app/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libsfml-example.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "/home/gangchen/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,2 @@
+/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Android.mk
+/home/gangchen/Downloads/project/temp/Carryarrow/app/src/main/jni/Application.mk
